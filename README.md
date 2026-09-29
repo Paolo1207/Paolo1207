@@ -65,5 +65,5 @@ Clinic scheduling app for Admin, Doctor/Nurse, and Patient roles with session-ba
 - Certificate of Completion, Backend AI Engineering Internship — FlyRank Corp. (2026)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paolo1207&show_icons=true&theme=default&hide_title=false" alt="Paolo's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paolo1207&show_icons=true&theme=default&hide_title=false" alt="Paolo's GitHub stats" />
 </p>
