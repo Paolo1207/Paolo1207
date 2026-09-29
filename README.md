@@ -6,7 +6,7 @@
   <a href="mailto:pamaui1207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
-I'm an IT graduate from Batangas State University – The National Engineering University, Lipa Campus, based in Lipa City, Batangas, Philippines. I build backend systems and REST APIs in Python, and recently completed an internship integrating large language models into production-style backends — schema-validated outputs, retry/timeout policies, cost logging, and automated evaluation.
+I'm an IT graduate from Batangas State University – The National Engineering University, Lipa Campus, based in Lipa City, Batangas, Philippines. I build backend systems and REST APIs using Python, Flask, and FastAPI, with experience in PostgreSQL, MySQL, authentication, and full-stack web development. Recently completed a Backend AI Engineering internship focused on integrating large language models into production-style backend systems, including schema-validated outputs, retry and timeout policies, structured cost logging, and automated evaluation.
 
 - 🔭 Recently: Backend AI Engineering Intern at **FlyRank.ai**, working on LLM-powered API endpoints
 - 🎓 BS Information Technology, Major in Business Analytics — Dean's Lister (GWA 1.6125)
